@@ -1,0 +1,38 @@
+* {text-align: center;
+	color: black;
+	}
+	
+	nav, header, footer {background-color:#66ad85;}
+	
+	nav{padding:10px;
+	height:100px}
+	
+	
+	 a {
+		 font-size: large;
+		 text-decoration: none;
+		 color: black
+	 }
+	div {
+		background-color: lightblue;
+		padding: 30px;
+		margin: auto;
+	
+		}
+	
+		ul, ol {
+			list-style-type: none;
+			margin: 0;
+			padding: 0;
+	
+		  }
+		
+		 .indice li{display: inline;}
+
+	img {
+			max-width: 50%;
+			height: auto;
+			width: auto\9; /* ie8 */
+		}
+		
+		
